@@ -1,66 +1,60 @@
-#AuroraFlow
+AuroraFlow Theme
 
-AuroraFlow is a modern revised version of Aurora Full Background Theme by CH360, featuring a custom Xbox 360 Aurora boot animation and a custom modern flow layout.
+AuroraFlow is a modern revised version of the Aurora Full Background Theme by CH360, featuring a refreshed visual style, a custom Xbox 360 Aurora boot animation, and a custom modern flow layout.
 
 «Credits: Original theme by CH360 and his team. Full credit goes to them for the original work this theme is based on.»
 
-##Features
+✨ Features
 
-- Modern revised version of the Aurora Full Background Theme
+- Modernized version of the Aurora Full Background Theme
 - Custom Xbox 360 Aurora boot animation
-- Custom modern flow layout
-- Updated visual style
-- Additional carousel layout included
+- Custom modern flow/carousel layout
+- Updated visual style designed to complement the full-background theme
+- Includes an additional carousel layout for use with other Aurora skins
 
-##Layouts
+🎨 Layouts
 
 Modern By MaZ3
 
-This layout was specifically designed to match the style of the AuroraFlow theme.
+The main layout included with AuroraFlow is:
+
+Modern By MaZ3
+
+This layout was specifically designed to match the visual style of the AuroraFlow theme.
 
 Bottom Carousel
 
-This layout can be used with other Aurora skins.
+The files also include:
 
-«Note: The Bottom Carousel layout is not designed to match the style of AuroraFlow.»
+Bottom Carousel
 
-##Known Bug
+This is an alternative layout that can be used with other Aurora skins.
 
-Sometimes the Aurora app counter, such as:
+«Note: The Bottom Carousel layout is not designed to match the visual style of AuroraFlow, so it may look out of place when used with this theme.»
 
-2 of 40
+⚠️ Known Bug
 
-and the IP address may appear in the incorrect position.
+In some cases, Aurora may display the app count (for example, "2 of 40") and the IP address in the wrong position.
 
-If this happens, simply press "B" on your controller.
+If this happens:
 
-The elements should then move back to their correct positions.
+Press "B" on your controller.
 
-##Credits
+The elements should move back to their correct positions.
 
-- CH360 & his team — Original Aurora Full Background Theme
-- MaZ3 — AuroraFlow revisions
-- MaZ3 — Custom Aurora boot animation
-- MaZ3 — Modern By MaZ3 layout
-
-## Screenshots
-
-![AuroraFlow](screenshots/screenshot1.png)
-
-![Modern By MaZ3](screenshots/screenshot2.png)
-
-![AuroraFlow Boot Animation](screenshots/screenshot3.png)
-
-##Installation
+📦 Installation
 
 1. Download the latest release.
-2. Extract the downloaded files.
-3. Copy the skin to your Aurora "Skins" folder.
-4. Open Aurora.
-5. Navigate to Settings → Interface → Skin.
+2. Extract the theme files.
+3. Copy the AuroraFlow skin folder to your Aurora skins directory.
+4. Launch Aurora.
+5. Go to Settings → Interface → Skin.
 6. Select AuroraFlow.
-7. Select Modern By MaZ3 as the layout.
+7. Apply the Modern By MaZ3 layout if it is not already selected.
 
----
+🙏 Credits
 
-AuroraFlow — A modern flow experience for Xbox 360 Aurora. 🎮
+- CH360 and his team — Original Aurora Full Background Theme
+- MaZ3 — AuroraFlow revisions, custom boot animation, and Modern By MaZ3 layout
+
+Enjoy AuroraFlow! 🎮
