@@ -42,7 +42,7 @@ The elements should then move back to their correct positions.
 
 ![Modern By MaZ3](screenshot2.png)
 
-## 🙏 Credits
+## 📌 Credits
 
 - **CH360 & his team** — Original Aurora Full Background Theme
 - **MaZ3** — AuroraFlow revisions
