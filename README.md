@@ -38,9 +38,9 @@ The elements should then move back to their correct positions.
 
 ## 📸 Screenshots
 
-![AuroraFlow](Screenshots/auroraflow.png)
+![AuroraFlow](screenshot1.png)
 
-![Modern By MaZ3](Screenshots/modern-by-maz3.png)
+![Modern By MaZ3](screenshot2.png)
 
 ## 🙏 Credits
 
