@@ -1,5 +1,9 @@
 # AuroraFlow
 
+![AuroraFlow](ss1.png)
+![AuroraFlow](ss2.png)
+![Modern By MaZ3](ss3.png)
+
 **AuroraFlow** is a modern revised version of **Aurora Full Background Theme by CH360**, featuring a custom Xbox 360 Aurora boot animation and a custom modern flow layout.
 
 ## ✨ Features
@@ -21,13 +25,7 @@ This layout was specifically designed to match the style of the **AuroraFlow** t
 
 This layout can be used with other Aurora skins.
 
-> **Note:** The **Bottom Carousel** layout is not designed to match the style of AuroraFlow. 
-
-## 📸 Screenshots
-
-![AuroraFlow](screenshot1.png)
-
-![Modern By MaZ3](screenshot2.png)
+> **Note:** The **Bottom Carousel** layout is not designed to match the style of AuroraFlow.
 
 ## 📌 Credits
 
