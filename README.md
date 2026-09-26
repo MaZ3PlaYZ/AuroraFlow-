@@ -29,21 +29,16 @@ This layout can be used with other Aurora skins.
 
 > **Note:** The **Bottom Carousel** layout is not designed to match the style of AuroraFlow.
 
-## 📌 Credits
-
-- **MaZ3** — AuroraFlow revisions
-- **MaZ3** — Custom Aurora boot animation
-- **MaZ3** — Modern By MaZ3 layout
-
 ## 📥 Installation
 
 1. Download the latest release.
 2. Extract the downloaded files.
-3. Copy the skin to your Aurora `Skins` folder.
+3. Copy the skin to your Aurora in **Aurora/User/Backgrounds
 4. Open Aurora.
 5. Press **B** → **Skin**.
 6. Select **AuroraFlow**.
-7. Select **Modern By MaZ3** as the layout.
+7. Disable **Animation**.
+8. Select **Modern By MaZ3** as the layout.
 
 ---
 
