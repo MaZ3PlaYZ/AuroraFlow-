@@ -33,7 +33,7 @@ This layout can be used with other Aurora skins.
 
 1. Download the latest release.
 2. Extract the downloaded files.
-3. Copy the skin to your Aurora in **Aurora/User/Backgrounds
+3. Copy the skin to your Aurora in **Aurora/User/Backgrounds**.
 4. Open Aurora.
 5. Press **B** → **Skin**.
 6. Select **AuroraFlow**.
